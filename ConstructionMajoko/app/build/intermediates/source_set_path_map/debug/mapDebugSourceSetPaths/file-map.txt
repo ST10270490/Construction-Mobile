@@ -1,0 +1,53 @@
+vcmsa.projects.constructionmajoko.app-play-services-base-18.0.1-0 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\0783c555064f2d95ff74d045ddee6a50\transformed\play-services-base-18.0.1\res
+vcmsa.projects.constructionmajoko.app-lifecycle-service-2.6.2-1 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\09cc821aa9b691e67451ed89e4a1a44f\transformed\lifecycle-service-2.6.2\res
+vcmsa.projects.constructionmajoko.app-lifecycle-runtime-2.6.2-2 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\19766b414c3faabb9bbe38e585b19932\transformed\lifecycle-runtime-2.6.2\res
+vcmsa.projects.constructionmajoko.app-profileinstaller-1.4.0-3 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\1d5a53341b8e73ee6218425c3ab2f415\transformed\profileinstaller-1.4.0\res
+vcmsa.projects.constructionmajoko.app-tracing-1.2.0-4 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\1e1363a60a169bb9d17a48bcd17b1730\transformed\tracing-1.2.0\res
+vcmsa.projects.constructionmajoko.app-recyclerview-1.1.0-5 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\1fcc74e4e5be161715363832e249b0d4\transformed\recyclerview-1.1.0\res
+vcmsa.projects.constructionmajoko.app-credentials-1.2.0-rc01-6 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\22b6ee55b37d6006644856cf6499b080\transformed\credentials-1.2.0-rc01\res
+vcmsa.projects.constructionmajoko.app-emoji2-1.3.0-7 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\22fc802af6d93f6c7852eedb979438da\transformed\emoji2-1.3.0\res
+vcmsa.projects.constructionmajoko.app-play-services-ads-21.0.0-8 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\40f152851792e4ec80d3ca4ba9b97daf\transformed\play-services-ads-21.0.0\res
+vcmsa.projects.constructionmajoko.app-core-viewtree-1.0.0-9 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\44e8f312c9bf3984e0d36a12b0b01684\transformed\core-viewtree-1.0.0\res
+vcmsa.projects.constructionmajoko.app-appcompat-resources-1.7.1-10 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\46f8dfe822a9118ff1ecc754d9eee9c5\transformed\appcompat-resources-1.7.1\res
+vcmsa.projects.constructionmajoko.app-transition-1.5.0-11 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\51097b5dde7750be0f8b968e29d0ea48\transformed\transition-1.5.0\res
+vcmsa.projects.constructionmajoko.app-core-common-2.0.3-12 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\5d893137f62f0266678a2892db22197a\transformed\core-common-2.0.3\res
+vcmsa.projects.constructionmajoko.app-lifecycle-livedata-core-2.6.2-13 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\62d85adb68127a312c0a0bb8716532f6\transformed\lifecycle-livedata-core-2.6.2\res
+vcmsa.projects.constructionmajoko.app-emoji2-views-helper-1.3.0-14 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\62e683ccf81239243e9e1b123dd0acae\transformed\emoji2-views-helper-1.3.0\res
+vcmsa.projects.constructionmajoko.app-core-ktx-1.16.0-15 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\7289066b6837404eddd0c7cc1391e9ce\transformed\core-ktx-1.16.0\res
+vcmsa.projects.constructionmajoko.app-constraintlayout-2.2.1-16 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\763b788b30841fc2eedbc4afbd001208\transformed\constraintlayout-2.2.1\res
+vcmsa.projects.constructionmajoko.app-core-1.16.0-17 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\7e100d29f5a03267f693b674b0be3bbb\transformed\core-1.16.0\res
+vcmsa.projects.constructionmajoko.app-credentials-play-services-auth-1.2.0-rc01-18 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\870022d963dc6e2947a408bc24deb28b\transformed\credentials-play-services-auth-1.2.0-rc01\res
+vcmsa.projects.constructionmajoko.app-lifecycle-viewmodel-savedstate-2.6.2-19 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\89a14928f4ea40269a93665c7f119a60\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+vcmsa.projects.constructionmajoko.app-datastore-core-release-20 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\8ea94aef7df6448127d17b6fd4885809\transformed\datastore-core-release\res
+vcmsa.projects.constructionmajoko.app-material-1.12.0-21 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\918591a84c9acfb5a245a312837409c8\transformed\material-1.12.0\res
+vcmsa.projects.constructionmajoko.app-play-services-ads-lite-21.0.0-22 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\932c45cb99d96fcfcf195f0956986a12\transformed\play-services-ads-lite-21.0.0\res
+vcmsa.projects.constructionmajoko.app-lifecycle-viewmodel-2.6.2-23 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\9e11ed7f7a7be12f2ed4b6dce8fe7aed\transformed\lifecycle-viewmodel-2.6.2\res
+vcmsa.projects.constructionmajoko.app-annotation-experimental-1.4.1-24 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\ab256b64e1795b08d40af9878a9ca87d\transformed\annotation-experimental-1.4.1\res
+vcmsa.projects.constructionmajoko.app-core-runtime-2.2.0-25 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\b6a89ce415b1add6b6e8864f47e6e546\transformed\core-runtime-2.2.0\res
+vcmsa.projects.constructionmajoko.app-lifecycle-process-2.6.2-26 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\b9ab560c0ff4c24c5a7ee9624755fd84\transformed\lifecycle-process-2.6.2\res
+vcmsa.projects.constructionmajoko.app-activity-1.10.1-27 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\ba67687fd6a0395126475a6c0d4463ae\transformed\activity-1.10.1\res
+vcmsa.projects.constructionmajoko.app-drawerlayout-1.1.1-28 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\baf99afc07492b9b460469bc51d4dd08\transformed\drawerlayout-1.1.1\res
+vcmsa.projects.constructionmajoko.app-startup-runtime-1.1.1-29 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\bd3dbd7094c90f293055135c1178b373\transformed\startup-runtime-1.1.1\res
+vcmsa.projects.constructionmajoko.app-mediation-test-suite-3.0.0-30 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\c1c35f4a0b3228e7ec5bfe56e51cc1c2\transformed\mediation-test-suite-3.0.0\res
+vcmsa.projects.constructionmajoko.app-lifecycle-livedata-2.6.2-31 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\c8ea1247b647ea909099290217374035\transformed\lifecycle-livedata-2.6.2\res
+vcmsa.projects.constructionmajoko.app-play-services-auth-20.7.0-32 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\d2ad0c5876a3dde10c91782a197baec4\transformed\play-services-auth-20.7.0\res
+vcmsa.projects.constructionmajoko.app-appcompat-1.7.1-33 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\d383b6417ee8c6d719beb7378c815629\transformed\appcompat-1.7.1\res
+vcmsa.projects.constructionmajoko.app-play-services-basement-18.4.0-34 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\d423c92b5fb711a2de26337cc34922e8\transformed\play-services-basement-18.4.0\res
+vcmsa.projects.constructionmajoko.app-browser-1.4.0-35 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\d430241563d882c6dd569af42bf949b3\transformed\browser-1.4.0\res
+vcmsa.projects.constructionmajoko.app-fragment-1.5.4-36 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\d77adff2fdd07e3506bd6f598e1d9edf\transformed\fragment-1.5.4\res
+vcmsa.projects.constructionmajoko.app-datastore-preferences-release-37 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\def619f6da8214a9a5a6ebc1f0823197\transformed\datastore-preferences-release\res
+vcmsa.projects.constructionmajoko.app-savedstate-1.2.1-38 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\e5e4511b90023325ec1a543277f3a74c\transformed\savedstate-1.2.1\res
+vcmsa.projects.constructionmajoko.app-coordinatorlayout-1.1.0-39 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\e79bfaad88be0f06d452d513bf1f0946\transformed\coordinatorlayout-1.1.0\res
+vcmsa.projects.constructionmajoko.app-flexbox-3.0.0-40 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\ee81af19f0821a89a0578053ddc7cdd3\transformed\flexbox-3.0.0\res
+vcmsa.projects.constructionmajoko.app-firebase-common-22.0.0-41 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\f0739be8b86cb6ab881dc5ff8301383d\transformed\firebase-common-22.0.0\res
+vcmsa.projects.constructionmajoko.app-viewpager2-1.0.0-42 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\f57c9c96b3a652950cc177c630645fea\transformed\viewpager2-1.0.0\res
+vcmsa.projects.constructionmajoko.app-work-runtime-2.7.0-43 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\f5cdfefa3dd1e6fa587315a1f6405602\transformed\work-runtime-2.7.0\res
+vcmsa.projects.constructionmajoko.app-datastore-release-44 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\f7f5bc526c36354e5d1d8b677d044049\transformed\datastore-release\res
+vcmsa.projects.constructionmajoko.app-cardview-1.0.0-45 C:\Users\Vashi\.gradle\caches\8.11.1\transforms\fad82fd3cdc5319bbb98cf8007ef56c7\transformed\cardview-1.0.0\res
+vcmsa.projects.constructionmajoko.app-pngs-46 C:\Users\Vashi\Desktop\Varsity college\Year 3\Sem 2\ConstructionMajoko\app\build\generated\res\pngs\debug
+vcmsa.projects.constructionmajoko.app-resValues-47 C:\Users\Vashi\Desktop\Varsity college\Year 3\Sem 2\ConstructionMajoko\app\build\generated\res\resValues\debug
+vcmsa.projects.constructionmajoko.app-packageDebugResources-48 C:\Users\Vashi\Desktop\Varsity college\Year 3\Sem 2\ConstructionMajoko\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+vcmsa.projects.constructionmajoko.app-packageDebugResources-49 C:\Users\Vashi\Desktop\Varsity college\Year 3\Sem 2\ConstructionMajoko\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+vcmsa.projects.constructionmajoko.app-debug-50 C:\Users\Vashi\Desktop\Varsity college\Year 3\Sem 2\ConstructionMajoko\app\build\intermediates\merged_res\debug\mergeDebugResources
+vcmsa.projects.constructionmajoko.app-debug-51 C:\Users\Vashi\Desktop\Varsity college\Year 3\Sem 2\ConstructionMajoko\app\src\debug\res
+vcmsa.projects.constructionmajoko.app-main-52 C:\Users\Vashi\Desktop\Varsity college\Year 3\Sem 2\ConstructionMajoko\app\src\main\res

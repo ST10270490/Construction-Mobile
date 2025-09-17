@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "vcmsa.projects.constructionmajoko.app-mergeDebugResources-48:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Vashi\\.gradle\\caches\\8.11.1\\transforms\\c1c35f4a0b3228e7ec5bfe56e51cc1c2\\transformed\\mediation-test-suite-3.0.0\\res\\values-v16\\values.xml",
+                    "from": {
+                        "startLines": "4,10,16,22,28,34,40,46,52,59,65,72,78,84,90,96,102",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "200,448,695,945,1188,1442,1693,1945,2196,2493,2738,3035,3279,3527,3777,4036,4288",
+                        "endLines": "9,15,21,27,33,39,45,51,58,64,71,77,83,89,95,101,107",
+                        "endColumns": "8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8",
+                        "endOffsets": "447,694,944,1187,1441,1692,1944,2195,2492,2737,3034,3278,3526,3776,4035,4287,4552"
+                    },
+                    "to": {
+                        "startLines": "6,12,18,24,30,36,42,48,54,61,67,74,80,86,92,98,104",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "228,480,731,985,1232,1490,1745,2001,2256,2557,2806,3107,3355,3607,3861,4124,4380",
+                        "endLines": "11,17,23,29,35,41,47,53,60,66,73,79,85,91,97,103,109",
+                        "endColumns": "8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8",
+                        "endOffsets": "475,726,980,1227,1485,1740,1996,2251,2552,2801,3102,3350,3602,3856,4119,4375,4644"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Vashi\\.gradle\\caches\\8.11.1\\transforms\\d383b6417ee8c6d719beb7378c815629\\transformed\\appcompat-1.7.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
